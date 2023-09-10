@@ -1,0 +1,10 @@
+sprite = sMandrakeIdle;
+dsprite = sTown;
+im1 = 0;
+im2 = 1;
+imy = 240;
+imx = 32;
+col = global.pforeground;
+imspd = 0.75*room_speed;
+showdialogue = false;
+transitioned = false;

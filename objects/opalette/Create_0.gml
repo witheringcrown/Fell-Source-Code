@@ -1,0 +1,16 @@
+PaletteInit();
+PaletteMenuInit();
+col = ds_map_find_value(palettes[global.palette],"Player");
+maxmenucooldown = room_speed/8;
+menucooldown = maxmenucooldown;
+showcasex = oCore.gui_width/2;
+showcasey = 96;
+palettemenustarty = 160;
+palettemenustartx = 32;
+spacing = 16+8;
+xscale = 1;
+yscale = 1;
+unselectedalpha = 0.5;
+paletteselect = 0;
+rowsize = 9;
+rows = 1;

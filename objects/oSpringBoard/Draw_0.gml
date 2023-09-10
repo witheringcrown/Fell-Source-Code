@@ -1,0 +1,1 @@
+draw_sprite_ext(sSpringBoard, image_index, x, y, image_xscale, image_yscale, image_angle, col, image_alpha);

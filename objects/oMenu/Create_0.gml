@@ -1,0 +1,11 @@
+ButtonInit();
+col = global.pplayer;
+maxmenucooldown = room_speed/8;
+menucooldown = maxmenucooldown;
+buttonstarty = 112;
+spacing = 16+8;
+xscale = 1;
+yscale = 1;
+unselectedalpha = 0.5;
+button = 0;
+oCore.audiotrack = sndMenu;

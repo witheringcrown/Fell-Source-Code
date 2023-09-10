@@ -1,0 +1,10 @@
+sprite = sSign;
+dsprite = sDoubleJumpTutorial;
+im1 = 0;
+im2 = 1;
+imy = y-40;
+imx = x+8;
+col = global.pforeground;
+imspd = 0.75*room_speed;
+showdialogue = false;
+transitioned = false;

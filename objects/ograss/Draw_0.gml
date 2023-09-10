@@ -1,0 +1,1 @@
+draw_sprite_ext(sprite, grass, x, y, 1, 1, 0, col, 1);

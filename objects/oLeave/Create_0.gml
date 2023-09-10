@@ -1,0 +1,1 @@
+transcol = global.pbackground;
