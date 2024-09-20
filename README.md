@@ -10,3 +10,4 @@ Highlighted Mechanics and Features:
 - responsive platformer movement including acceleration and coyote time.
 - a simple dialogue system that displays images to simulate speaking and give instructions.
 - polished game feel mechanics like particle effects and scene transitions.
+- a made-from-scratch input system that seamlessly transitions between keyboard and controller.
